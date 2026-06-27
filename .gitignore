@@ -1,0 +1,17 @@
+.pio
+.vscode
+
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+*.a
+*.so
+*.exe
+
+*.log
+*.tmp
+*.swp
+*.swo
